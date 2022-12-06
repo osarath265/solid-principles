@@ -1,6 +1,7 @@
 # solid-principles
 
-This repo is not intended for implementation detail , but to understand the concept of each solid principle applied in Java 
+This repo is not intended for implementation detail , but to understand the concept of each solid principle applied in Java.
+
 Solid principles are 
 
 1 Single Responsibility Principle 
